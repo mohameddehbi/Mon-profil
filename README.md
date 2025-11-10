@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Mohamed Dehbi</h1>
+<h1 align="center">Mohamed Dehbi 20 ans</h1>
 
 <p align="center">
 🎓 Étudiant en <b>2ème année de BUT Informatique</b> à l’IUT de Toulouse – parcours <b>Administration, gestion et exploitation des données (Base de Données & IA)</b>  
@@ -68,7 +68,7 @@ Curieux, autonome et rigoureux, j’aime apprendre de nouvelles technologies et 
 ---
 
 ### 🌍 Langues
-- 🇫🇷 Français : C1  
+- 🇫🇷 Français : Courant
 - 🇬🇧 Anglais : B1  
 - 🇲🇦 Arabe : Langue maternelle  
 
