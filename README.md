@@ -14,3 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 📬 Me contacter
+- 📧 Email : [imam31100@gmail.com](mailto:imam31100@gmail.com)
+- 🌍 GitHub : [ImamMagadiyev](https://github.com/ImamMagadiyev)
